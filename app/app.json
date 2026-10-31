@@ -1,8 +1,8 @@
 {
- "version": "0.33.2",
- "build": 2068,
- "apk": "kadath-0.33.2.apk",
- "size": 53823016,
- "sha256": "cfd75bea5226cb970e9acc31215b7022de392b608f7206411154a657f37060b4",
- "notes": "The 3D preview reads big, fine-layer files in moments instead of freezing the app."
+ "version": "0.33.3",
+ "build": 2069,
+ "apk": "kadath-0.33.3.apk",
+ "size": 53888584,
+ "sha256": "02023e0b3a151e729d8ef795dc5b2b909a2dcf5fe57badf550a90cdb86f21cfd",
+ "notes": "3D preview for every file on the card (big ones too), print settings over the 3D view, plate switching, file search and filters."
 }
