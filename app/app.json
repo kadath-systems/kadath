@@ -1,8 +1,8 @@
 {
- "version": "0.33.1",
- "build": 2067,
- "apk": "kadath-0.33.1.apk",
- "size": 53823020,
- "sha256": "7c08dc8c38e755f90ded7bdc08b741362da2434b5cc746616fd4ff4955cdb602",
- "notes": "The 3D preview when printing straight to the printer (same Wi-Fi) too: the phone reads the file from the card; plain .gcode files show in 3D."
+ "version": "0.33.2",
+ "build": 2068,
+ "apk": "kadath-0.33.2.apk",
+ "size": 53823016,
+ "sha256": "cfd75bea5226cb970e9acc31215b7022de392b608f7206411154a657f37060b4",
+ "notes": "The 3D preview reads big, fine-layer files in moments instead of freezing the app."
 }
