@@ -1,0 +1,16 @@
+{
+ "name": "Kadath",
+ "version": "0.5.64",
+ "new_install_prompt_erase": true,
+ "builds": [
+  {
+   "chipFamily": "ESP32-S3",
+   "parts": [
+    {
+     "path": "firmware/kadath-waveshare-s3-128-0.5.64.bin",
+     "offset": 0
+    }
+   ]
+  }
+ ]
+}

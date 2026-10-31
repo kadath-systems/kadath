@@ -1,0 +1,8 @@
+{
+ "version": "0.33.0",
+ "build": 2066,
+ "apk": "kadath-0.33.0.apk",
+ "size": 53823016,
+ "sha256": "70710a2398f7621f5b93db5557315d5c0806331960a7b7ef09e4b086dbd5739e",
+ "notes": "Safety tab with a region map and analytics; the exact 3D of a plate before printing (and while it prints); skip objects during a print; section titles lead to their screens."
+}

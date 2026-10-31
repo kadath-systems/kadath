@@ -1,0 +1,9 @@
+{
+ "version": "0.5.64",
+ "board": "waveshare-s3-128",
+ "size": 2518480,
+ "sha256": "d599f8b8df8210051b5f9310df9999da2dc0fdd667edf28668674ceb4e4b0cf4",
+ "url": "https://kadath-systems.github.io/kadath/firmware/waveshare-s3-128-0.5.64.bin",
+ "notes": "Skip objects during a print (from the phone's 3D preview, with a hold); the printer's skipped objects in the status.",
+ "signature": "MEUCIF6HU+WOXcoR69Wy5cnts2xh5eEoyqd3YeN26Ro1l1/LAiEA5IZJhscxJfe0Xo3y+CNNk2OrlJ4Y1Pl5HPSeXwFtlHU="
+}
