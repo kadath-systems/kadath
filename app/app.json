@@ -1,8 +1,8 @@
 {
- "version": "0.33.3",
- "build": 2069,
- "apk": "kadath-0.33.3.apk",
- "size": 53888584,
- "sha256": "02023e0b3a151e729d8ef795dc5b2b909a2dcf5fe57badf550a90cdb86f21cfd",
- "notes": "3D preview for every file on the card (big ones too), print settings over the 3D view, plate switching, file search and filters."
+ "version": "0.34.0",
+ "build": 2070,
+ "apk": "kadath-0.34.0.apk",
+ "size": 53954120,
+ "sha256": "6ed182bf0ccebea5dfd71438ae0eeab9b1dbb9d54812fd96b700f101ebc6bf65",
+ "notes": "Orders from the 3D preview (priced by your calculator, pieces per print, save and print); printing from an order shows the plate in 3D first; no repeated printer messages."
 }
