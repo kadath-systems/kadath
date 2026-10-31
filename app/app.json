@@ -1,8 +1,8 @@
 {
- "version": "0.34.0",
- "build": 2070,
- "apk": "kadath-0.34.0.apk",
- "size": 53954120,
- "sha256": "6ed182bf0ccebea5dfd71438ae0eeab9b1dbb9d54812fd96b700f101ebc6bf65",
- "notes": "Orders from the 3D preview (priced by your calculator, pieces per print, save and print); printing from an order shows the plate in 3D first; no repeated printer messages."
+ "version": "0.35.0",
+ "build": 2071,
+ "apk": "kadath-0.35.0.apk",
+ "size": 54086032,
+ "sha256": "0ecd1b60b9363d79916a3defb818ee5fd6c901671741841b2d1d9914c55bbd84",
+ "notes": "Phone slicer, stage 1: import STL / OBJ / 3MF, arrange on the P1S plate in 3D, lay flat, turn, size, copy, filament slots; projects kept on the phone. Slicing comes next."
 }
