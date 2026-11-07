@@ -1,8 +1,8 @@
 {
- "version": "0.67.0",
- "build": 2113,
- "apk": "kadath-0.67.0.apk",
+ "version": "0.67.1",
+ "build": 2114,
+ "apk": "kadath-0.67.1.apk",
  "size": 62805316,
- "sha256": "a8e857d5791da8ea35bb6232fccd9126b874a3bb1ceb508bfcc280943e575bab",
- "notes": "The watch as the relay: away from a printer's Wi-Fi, with the watch on it, files, deletes, camera pictures and starts go through the watch (needs watch firmware 0.5.67). Wider brims and gentle moves for risky parts (balls, tall thin parts). Real AMS spools in the slicer; AMS card fixed."
+ "sha256": "a11df04313f69953158efb5f4e5bc90ddf0ba48a2ce85751c7d08fac77999c1e",
+ "notes": "The slicer frames the plate above the bottom panel at every stage (it hid behind it)."
 }
