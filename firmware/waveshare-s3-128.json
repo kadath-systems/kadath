@@ -1,0 +1,9 @@
+{
+ "version": "0.5.67",
+ "board": "waveshare-s3-128",
+ "size": 2550096,
+ "sha256": "2ccb90b7c65a956e26481c7a9d77fad9147ecb9eb71de289dfe801343d65388e",
+ "url": "https://kadath-systems.github.io/kadath/firmware/waveshare-s3-128-0.5.67.bin",
+ "notes": "The watch as the phone's relay: away from a printer's Wi-Fi, with the watch on it, the Kadath app's files, deletes, camera pictures and print starts (any colours) go through the watch (app 0.67.0).",
+ "signature": "MEUCIB0863LZMO2u36fCKBBeNtMi3MZEJFc9OO+8a6dKb+FAAiEA5Osvkcj+UOoqEYAVUtw+QDpjkuj2iirdLRsNAbMLt7I="
+}
