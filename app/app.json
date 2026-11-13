@@ -1,8 +1,8 @@
 {
- "version": "0.77.3",
- "build": 2131,
- "apk": "kadath-0.77.3.apk",
+ "version": "0.77.4",
+ "build": 2132,
+ "apk": "kadath-0.77.4.apk",
  "size": 62936644,
- "sha256": "5a07c2d886ad8976ef2c5d0c5646f33392ec8251ab7b917ccffd52978101590b",
- "notes": "Camera pictures away from the printer's Wi-Fi: through the watch over the cloud once a minute (each is ~100 KB of your broker's monthly allowance), and the page says why when a picture doesn't come."
+ "sha256": "2410ce9f3b76e3285eaba221a40557f1569c7e31b367af96f35865ba0cf85631",
+ "notes": "Printer pictures away from home work again through the watch (needs watch firmware 0.5.69). Through the cloud a picture every 5 minutes to save your broker's data; tap the note for one now."
 }
