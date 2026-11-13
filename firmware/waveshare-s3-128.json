@@ -1,0 +1,9 @@
+{
+ "version": "0.5.69",
+ "board": "waveshare-s3-128",
+ "size": 2550256,
+ "sha256": "831f7db88bad5c990c4c5e4b4219e538f4e0814dd4b8578b0bc200682a2eade0",
+ "url": "https://kadath-systems.github.io/kadath/firmware/waveshare-s3-128-0.5.69.bin",
+ "notes": "Large messages over the cloud link are sent whole: printer pictures through the watch away from home no longer fail (they were cut off and the broker dropped the link, using data each time).",
+ "signature": "MEQCIFyjX91OwHNnRa4XyDmBbVawm4wxBwSISK4TJqJ5yNxkAiA/gUwI5jyfon8k8cDu8Po+5mQGCXT9e8QAZA3uekIQnQ=="
+}
