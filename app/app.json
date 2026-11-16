@@ -1,8 +1,8 @@
 {
- "version": "0.86.0",
- "build": 2145,
- "apk": "kadath-0.86.0.apk",
- "size": 59816853,
- "sha256": "b1144410a3cedcd37440558e418190cd99d55fd8b58ccd923c182757f6817b9f",
- "notes": "Cortex stands on the phone alone: it studies with the app closed, thinks issues through with its own model, answers on the phone first, writes code to files, offers printer actions as buttons and asks your PC or Claude for harder tasks. The phone also stays cooler with Cortex open."
+ "version": "0.87.0",
+ "build": 2146,
+ "apk": "kadath-0.87.0.apk",
+ "size": 60078874,
+ "sha256": "9f293cecd30a9112188b873a62c4f1bf200e14d5199bb2d9e160d9e86f5c93df",
+ "notes": "The chat with Cortex is now a live console: the line clears when you send, you see what it is doing as it works, and the answer is written out in a code font. It also remembers the last turns of the conversation."
 }
