@@ -1,8 +1,8 @@
 {
- "version": "0.80.0",
- "build": 2136,
- "apk": "kadath-0.80.0.apk",
- "size": 59488653,
- "sha256": "eb3454be72a3779e70e7c6ce2260a0ff4131efec40fe53671f1abe3c2336b5d8",
- "notes": "The brain is now real: it draws only the parts you have and the connections signals really crossed, keeps growing across restarts, shows what Cortex has learned as neurons, and announces each new part the moment it first fires."
+ "version": "0.81.0",
+ "build": 2137,
+ "apk": "kadath-0.81.0.apk",
+ "size": 59619849,
+ "sha256": "6cfe20e6204997f88fcbfea97d96d604ea944eb3c4acafe3366b75e5d30d0c24",
+ "notes": "Cortex starts to know you: tell it lasting things about yourself in Ask (or in Memory > What I know about you) and it keeps them, encrypted on the phone, and uses them in its answers. Each one is a neuron by 'You' in the brain. Work apps, banking, private chats' text, hidden photos and passwords are never kept."
 }
