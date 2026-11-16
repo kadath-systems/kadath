@@ -1,8 +1,8 @@
 {
- "version": "0.78.1",
- "build": 2134,
- "apk": "kadath-0.78.1.apk",
- "size": 63068056,
- "sha256": "8cd0a4de692cf48ca53594bfe5bc6e4a03d7c9e7b3823a695f2c8942f2c713f7",
- "notes": "Ask Cortex now asks your PC's own model first (Kadath Mind, in Companion 0.5.4): free, in any language, and the question stays on your own devices. Claude is asked only in Bulgarian when the PC's model isn't there, and never for a private question."
+ "version": "0.79.0",
+ "build": 2135,
+ "apk": "kadath-0.79.0.apk",
+ "size": 59488657,
+ "sha256": "1194d948f49ba600de7f1f255c54e086db89b18345027c4294b05d4a338c7b12",
+ "notes": "Cortex's own brain on the phone is now Gemma 4 (download it in Cortex settings, 3.7 GB or the lighter 2.6 GB): it answers in Bulgarian and English, offline, and uses tools (the printers, an exact calculator, printing facts). The download is checked against the publisher's checksum. The older small model is removed."
 }
