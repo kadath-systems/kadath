@@ -1,8 +1,8 @@
 {
- "version": "0.82.2",
- "build": 2140,
- "apk": "kadath-0.82.2.apk",
- "size": 59619849,
- "sha256": "e8bc3f358c7be090e5ecde671f0d8151157c70e837954537373e5fd358d27cc4",
- "notes": "Talking to the brain is dependable now: an answer survives turning the phone or changing tabs, the phone's own model warms up as soon as you open Cortex, and each tab keeps its state when the phone is turned."
+ "version": "0.84.0",
+ "build": 2142,
+ "apk": "kadath-0.84.0.apk",
+ "size": 59685649,
+ "sha256": "42a768b48e63748fafc977bed78abad63430f5599f92dee5be37f9ad5d875052",
+ "notes": "The phone studies by itself while it charges and stays cool. The brain is cleaner and lighter on the phone: tracts instead of glare, room for every neuron, and you can go into a neuron to read what it holds."
 }
