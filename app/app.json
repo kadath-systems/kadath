@@ -1,8 +1,8 @@
 {
- "version": "0.84.0",
- "build": 2142,
- "apk": "kadath-0.84.0.apk",
+ "version": "0.84.1",
+ "build": 2143,
+ "apk": "kadath-0.84.1.apk",
  "size": 59685649,
- "sha256": "42a768b48e63748fafc977bed78abad63430f5599f92dee5be37f9ad5d875052",
- "notes": "The phone studies by itself while it charges and stays cool. The brain is cleaner and lighter on the phone: tracts instead of glare, room for every neuron, and you can go into a neuron to read what it holds."
+ "sha256": "d65b568c92926cf44803256804decf1b166b40a030418e941cbf534b989e617e",
+ "notes": "Cortex tells you when its PC side has written a script that waits for your decision."
 }
