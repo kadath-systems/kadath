@@ -1,8 +1,8 @@
 {
- "version": "0.79.0",
- "build": 2135,
- "apk": "kadath-0.79.0.apk",
- "size": 59488657,
- "sha256": "1194d948f49ba600de7f1f255c54e086db89b18345027c4294b05d4a338c7b12",
- "notes": "Cortex's own brain on the phone is now Gemma 4 (download it in Cortex settings, 3.7 GB or the lighter 2.6 GB): it answers in Bulgarian and English, offline, and uses tools (the printers, an exact calculator, printing facts). The download is checked against the publisher's checksum. The older small model is removed."
+ "version": "0.80.0",
+ "build": 2136,
+ "apk": "kadath-0.80.0.apk",
+ "size": 59488653,
+ "sha256": "eb3454be72a3779e70e7c6ce2260a0ff4131efec40fe53671f1abe3c2336b5d8",
+ "notes": "The brain is now real: it draws only the parts you have and the connections signals really crossed, keeps growing across restarts, shows what Cortex has learned as neurons, and announces each new part the moment it first fires."
 }
