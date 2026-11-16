@@ -1,8 +1,8 @@
 {
- "version": "0.77.4",
- "build": 2132,
- "apk": "kadath-0.77.4.apk",
- "size": 62936644,
- "sha256": "2410ce9f3b76e3285eaba221a40557f1569c7e31b367af96f35865ba0cf85631",
- "notes": "Printer pictures away from home work again through the watch (needs watch firmware 0.5.69). Through the cloud a picture every 5 minutes to save your broker's data; tap the note for one now."
+ "version": "0.78.0",
+ "build": 2133,
+ "apk": "kadath-0.78.0.apk",
+ "size": 63068056,
+ "sha256": "d0c0398d0bcd2d88418c98c2ad7bc2bc8dc4adda277856dd27557a6f10248f55",
+ "notes": "Sealed mode: one switch and nothing leaves the phone (printers and the watch on the same Wi-Fi keep working). The privacy guard asks or seals on an unknown Wi-Fi and seals when a network tampers with secure connections. Questions with card, account or personal numbers, passwords or sensitive topics stay on the phone."
 }
