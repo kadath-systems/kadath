@@ -1,8 +1,8 @@
 {
- "version": "0.81.0",
- "build": 2137,
- "apk": "kadath-0.81.0.apk",
+ "version": "0.82.0",
+ "build": 2138,
+ "apk": "kadath-0.82.0.apk",
  "size": 59619849,
- "sha256": "6cfe20e6204997f88fcbfea97d96d604ea944eb3c4acafe3366b75e5d30d0c24",
- "notes": "Cortex starts to know you: tell it lasting things about yourself in Ask (or in Memory > What I know about you) and it keeps them, encrypted on the phone, and uses them in its answers. Each one is a neuron by 'You' in the brain. Work apps, banking, private chats' text, hidden photos and passwords are never kept."
+ "sha256": "aaefb24de4ac1df6ab7069e3b477470c86a3eb87fa60b122a0b64b8cf4d257fc",
+ "notes": "The brain, step 1 of the new one: talk to it right in the brain view; connections show which way signals really flow (beads of light, both ways where both happen) and bundle into fibres when well used; a nerve below the brainstem carries commands to the printers and their reports back; new neurons grow at free spots and never overlap; much deeper zoom."
 }
