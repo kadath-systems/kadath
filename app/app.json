@@ -1,8 +1,8 @@
 {
- "version": "0.82.1",
- "build": 2139,
- "apk": "kadath-0.82.1.apk",
+ "version": "0.82.2",
+ "build": 2140,
+ "apk": "kadath-0.82.2.apk",
  "size": 59619849,
- "sha256": "7b1bd41f9e4cce7d372f6449d43ef63fe84fa6be0d39097ff1a34ed0f96452dc",
- "notes": "Talking to the brain: it no longer waits on a PC that isn't answering, it speaks more like a person, and on its side the text bar keeps clear of the brain."
+ "sha256": "e8bc3f358c7be090e5ecde671f0d8151157c70e837954537373e5fd358d27cc4",
+ "notes": "Talking to the brain is dependable now: an answer survives turning the phone or changing tabs, the phone's own model warms up as soon as you open Cortex, and each tab keeps its state when the phone is turned."
 }
