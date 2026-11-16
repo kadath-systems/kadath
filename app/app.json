@@ -1,8 +1,8 @@
 {
- "version": "0.84.1",
- "build": 2143,
- "apk": "kadath-0.84.1.apk",
- "size": 59685649,
- "sha256": "d65b568c92926cf44803256804decf1b166b40a030418e941cbf534b989e617e",
- "notes": "Cortex tells you when its PC side has written a script that waits for your decision."
+ "version": "0.86.0",
+ "build": 2145,
+ "apk": "kadath-0.86.0.apk",
+ "size": 59816853,
+ "sha256": "b1144410a3cedcd37440558e418190cd99d55fd8b58ccd923c182757f6817b9f",
+ "notes": "Cortex stands on the phone alone: it studies with the app closed, thinks issues through with its own model, answers on the phone first, writes code to files, offers printer actions as buttons and asks your PC or Claude for harder tasks. The phone also stays cooler with Cortex open."
 }
