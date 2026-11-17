@@ -1,8 +1,8 @@
 {
- "version": "0.93.0",
- "build": 2156,
- "apk": "kadath-0.93.0.apk",
- "size": 60686674,
- "sha256": "38d9f7d3d1593181d665eadd825abafcdfc53c3d717e519256343c12320d4022",
- "notes": "The brain is clear glass now: a clean shell without the glowing dots, with everything visible inside. What it learns grows inside the shell where there is room; the shell itself grows only when that room is used up. Learned things show as branches from afar and appear as you zoom in."
+ "version": "0.94.0",
+ "build": 2157,
+ "apk": "kadath-0.94.0.apk",
+ "size": 60686678,
+ "sha256": "9638a61fbc1d8586aeb04c1411bf133c9dfe3ba523e25592280c3881d8ec14bd",
+ "notes": "The brain's pathways now run as real tracts do: curved bundles through the white matter, across the corpus callosum, and along each tree's limbs. Every moving light is one real signal on the path it took; nothing floats loose. Pathways are clearer and fade before the cells so the nodes stand out."
 }
