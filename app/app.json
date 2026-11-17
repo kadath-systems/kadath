@@ -1,8 +1,8 @@
 {
- "version": "0.105.0",
- "build": 2173,
- "apk": "kadath-0.105.0.apk",
- "size": 65046103,
- "sha256": "4cea5e30d70dff22ae6f49f51d2c4850dd2b649c43b5ee2a2cbd822fb44d46b6",
- "notes": "The brain's pathways now run the way real fibres run: through the named tracts of the white matter (corpus callosum, cingulum, arcuate and the others), long and curved, gathered in bundles; a connection's page names the tracts it takes. The architecture check stays clean."
+ "version": "0.106.0",
+ "build": 2174,
+ "apk": "kadath-0.106.0.apk",
+ "size": 65046195,
+ "sha256": "52d19a1febda05e121290851f2f9577a552e33cdb8f39f23376affead2636e4b",
+ "notes": "The lower back of the brain has its work now: grading and the check of the brain's own architecture in the cerebellum's hemispheres, pacing (heat) and retrying in its vermis; each appears when it first really works. Under the hood the brain can take in another system as a whole, by what its parts do."
 }
