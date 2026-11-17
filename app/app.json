@@ -1,8 +1,8 @@
 {
- "version": "0.90.0",
- "build": 2151,
- "apk": "kadath-0.90.0.apk",
- "size": 60424074,
- "sha256": "213a06c3d5b13789bf57beeda252e8279f5c3669410e25d1fc4e9a6dcb5d9efc",
- "notes": "Voice: tap the microphone by the talk line and speak to Cortex; it listens on the phone itself and answers aloud. Learn from this phone (Cortex > Memory): calendar, phone use, notifications (counts only), personal mail headers, starred contacts - each off until you switch it on; work apps, banking and message text are never read."
+ "version": "0.91.0",
+ "build": 2152,
+ "apk": "kadath-0.91.0.apk",
+ "size": 60489934,
+ "sha256": "b6373a9a1ba2cd58c4a08789501f5e3eec985cb776629adc7284aaf6af00b478",
+ "notes": "The brain can show things again: tap 'follow this thought' under an answer, the clock button replays the last hour or day, and a 'Last night' chip shows what was studied overnight. Search (the magnifier) flies to a part, a topic or a fact. Layers: machines, knowledge, you, issues. Pinch into a neuron to enter it; chips step deeper or back."
 }
