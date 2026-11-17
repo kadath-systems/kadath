@@ -1,8 +1,8 @@
 {
- "version": "0.109.0",
- "build": 2180,
- "apk": "kadath-0.109.0.apk",
- "size": 65242839,
- "sha256": "bca67f304a1b6e40180e4f17d97e69b37e5213ca8b0ad56880ccc2ab50235170",
- "notes": "The phone's AI now has a room of its own: on the charger, every few hours, a few minutes with no task from anyone. There it can think, read from the trusted sources, work out formulas and small simulations in a little language of its own, and write in its own folder. Nothing is run, nothing leaves by itself, and everything is in a journal you can read (Cortex settings > Learning > Its room)."
+ "version": "0.110.0",
+ "build": 2181,
+ "apk": "kadath-0.110.0.apk",
+ "size": 65242835,
+ "sha256": "0337e8abd9ab662a3972bcd971de2f1bfaddad4868a1bf40a92a9f5b520e7e05",
+ "notes": "Cortex remembers your conversations. The one you are in is still there when you open the app again, and when a conversation ends it keeps a few sentences about it in its own words, sealed on your phone, so next time it knows what you talked about (Cortex > Memory > What we talked about: forget any or all). It also asks back when a question could mean two things, and goes step by step when you ask it to think something through."
 }
