@@ -1,8 +1,8 @@
 {
- "version": "0.91.2",
- "build": 2154,
- "apk": "kadath-0.91.2.apk",
- "size": 60489934,
- "sha256": "a96294ca0d71bb39515426022243646a2607f3bb9a13d26c87c914a58010a8f6",
- "notes": "The brain's new controls tidied after trying them on the phone: the replay bar, search results and a neuron's panel no longer sit under the talk line; inside a neuron only it is open; search ranks exact names first."
+ "version": "0.92.0",
+ "build": 2155,
+ "apk": "kadath-0.92.0.apk",
+ "size": 60686674,
+ "sha256": "e6119ac7df6539f8c35c79f2b1411264ff0232ab083cf39f849429ed0fd8f4e0",
+ "notes": "The brain is now built by rules you can read (the (i) button): everything learned hangs on a tree where it belongs, nothing is left out, and the surface rises where a field has grown. Smoother fibres and impulses. An immune system finds and mends damage in what Cortex keeps (Memory tab). Cortex reads up on the subject of an open issue."
 }
