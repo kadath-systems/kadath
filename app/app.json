@@ -1,8 +1,8 @@
 {
- "version": "0.87.0",
- "build": 2146,
- "apk": "kadath-0.87.0.apk",
- "size": 60078874,
- "sha256": "9f293cecd30a9112188b873a62c4f1bf200e14d5199bb2d9e160d9e86f5c93df",
- "notes": "The chat with Cortex is now a live console: the line clears when you send, you see what it is doing as it works, and the answer is written out in a code font. It also remembers the last turns of the conversation."
+ "version": "0.88.0",
+ "build": 2147,
+ "apk": "kadath-0.88.0.apk",
+ "size": 60144410,
+ "sha256": "d25718b1b8d9f6f76c736faa8a42e3c3ebd3569f3f38d5536a3bdd0dfe87a0bb",
+ "notes": "The phone and your PC now keep everything the same over your Wi-Fi, with no broker: what Cortex studied, what it wrote and what it knows about you. On the same Wi-Fi the phone can also ask the PC directly, even when sealed. Fixed: it mixed up storage and memory, and showed a button as text."
 }
