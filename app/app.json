@@ -1,8 +1,8 @@
 {
- "version": "0.108.1",
- "build": 2178,
- "apk": "kadath-0.108.1.apk",
- "size": 65111731,
- "sha256": "fe3a962713dab5f96d7d06b7f04eecc5018ec4109b1a402e38bcd514101387f3",
- "notes": "No more grape-like bunches: what the brain has learned now sits as short spines along the whole length of the cell's dendrite, each close to it with a small head, the way spines sit on a real neuron's dendrite."
+ "version": "0.108.2",
+ "build": 2179,
+ "apk": "kadath-0.108.2.apk",
+ "size": 65111727,
+ "sha256": "705b6dca6c1215f91aa31fff515139b5b6f4bf8c8e6f128b7444b0b885258d8a",
+ "notes": "The dendrite that carries what a cell has learned now has a real neuron's proportions: thin against the cell body like its other dendrites, in the cell's own colour, with fine spines about as long as the dendrite is thick. New knowledge is a thin spine with a small head; knowledge that holds more is a mushroom-shaped spine, as lasting memories are."
 }
