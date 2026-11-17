@@ -1,8 +1,8 @@
 {
- "version": "0.97.0",
- "build": 2161,
- "apk": "kadath-0.97.0.apk",
- "size": 60817822,
- "sha256": "48fa5bc6ea73cd2eb9e8cdc9ec0ad0af3750171cf611826cffd15f6d52ce3dd6",
- "notes": "The brain's shell now looks like an X-ray glass brain: bright creases between the gyri, and the corpus callosum and thalami seen inside. Every part now names the brain structure it lives in (a map of 48 structures, under the (i) button), and each pathway says which bundle it runs in."
+ "version": "0.98.0",
+ "build": 2162,
+ "apk": "kadath-0.98.0.apk",
+ "size": 64451023,
+ "sha256": "3a85d026144de4e914af11166e7f6a7d801a940b81b0ac95c313cc0f3704c06b",
+ "notes": "The brain's shell is now drawn in real 3D: its folds have real depth and catch the light the way glass does. Everything inside is drawn over it as before. If a phone can't do it, the earlier shell is used automatically."
 }
