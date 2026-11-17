@@ -1,8 +1,8 @@
 {
- "version": "0.96.0",
- "build": 2159,
- "apk": "kadath-0.96.0.apk",
+ "version": "0.96.1",
+ "build": 2160,
+ "apk": "kadath-0.96.1.apk",
  "size": 60752282,
- "sha256": "fc93bf8fa4ef56861d22d399b77442c78d1034dd22e5c41a7bf5a1c3cf23d971",
- "notes": "One colour code across the brain: each family of parts has its own hue, yellow to red only means trouble, paler means learned, and a pathway reddens when its signals fail (legend under the (i) button). Dendrites, limbs and fibres now curve and fork the way grown ones do."
+ "sha256": "292dcab2e0ebd807bd4e059091bd201f52d51d7858bac0f88497bb3f90cad96e",
+ "notes": "Lines no longer stop in mid-air: a tree's limbs are fine and carry their topics as buds, and a cell's axon runs on into its pathway all the way to the part it leads to."
 }
