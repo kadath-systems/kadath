@@ -1,8 +1,8 @@
 {
- "version": "0.102.0",
- "build": 2166,
- "apk": "kadath-0.102.0.apk",
- "size": 64652275,
- "sha256": "4e772187331ed88f4bdd634c4f7eb4072ff4ced10c1f6c402c3cc7d1891c0595",
- "notes": "Nothing in the brain grows outside its shell any more: dendrites turn at the surface and run on under it. Nerve cells are smaller, with long fine dendrites. What Cortex learns shows as twigs and spines growing on its trees, not as dots. When the brain has to grow it grows evenly on both sides. And the number of memories is the real one now (it had been stuck at 400)."
+ "version": "0.103.0",
+ "build": 2167,
+ "apk": "kadath-0.103.0.apk",
+ "size": 64783455,
+ "sha256": "4c3870ac570fc42a9e218f4dc1a85a21a9add2f2a693eec35d12cd163a9f480c",
+ "notes": "Cortex learns from a register of trusted sources (encyclopedia, official documentation, NIST, MedlinePlus, Stack Exchange), practical things first: code, formulas with exercises worked by its calculator, experiments, its machines. A fact is checked only when two publishers say it. Learning card: publishers, confirmed share, exercises, where it reads."
 }
