@@ -1,8 +1,8 @@
 {
- "version": "0.91.0",
- "build": 2152,
- "apk": "kadath-0.91.0.apk",
+ "version": "0.91.2",
+ "build": 2154,
+ "apk": "kadath-0.91.2.apk",
  "size": 60489934,
- "sha256": "b6373a9a1ba2cd58c4a08789501f5e3eec985cb776629adc7284aaf6af00b478",
- "notes": "The brain can show things again: tap 'follow this thought' under an answer, the clock button replays the last hour or day, and a 'Last night' chip shows what was studied overnight. Search (the magnifier) flies to a part, a topic or a fact. Layers: machines, knowledge, you, issues. Pinch into a neuron to enter it; chips step deeper or back."
+ "sha256": "a96294ca0d71bb39515426022243646a2607f3bb9a13d26c87c914a58010a8f6",
+ "notes": "The brain's new controls tidied after trying them on the phone: the replay bar, search results and a neuron's panel no longer sit under the talk line; inside a neuron only it is open; search ranks exact names first."
 }
