@@ -1,8 +1,8 @@
 {
- "version": "0.104.1",
- "build": 2169,
- "apk": "kadath-0.104.1.apk",
- "size": 64915807,
- "sha256": "d14486194c6fad021f52b6e3b715d7560702aa2039aa6e7e16ef113ba4773ec8",
- "notes": "Impulses are visible again in the brain: each real signal travels its pathway as a small body of light with its wake, the same size from far and from near."
+ "version": "0.104.2",
+ "build": 2170,
+ "apk": "kadath-0.104.2.apk",
+ "size": 64915067,
+ "sha256": "c2fa8a2a25ba3fa97f6a0bcdef37dbd25a2071b44cc1774c01c26f0e138d9cb7",
+ "notes": "Impulses in the brain are the pathway's own travelling light again, now visible from any distance: a pathway glows where a real signal runs along it. The memory count in the header is right from the first moment."
 }
