@@ -1,8 +1,8 @@
 {
- "version": "0.104.3",
- "build": 2171,
- "apk": "kadath-0.104.3.apk",
- "size": 64915031,
- "sha256": "7ade00cb9d6b374b7645523acc505b6c9853b140fdf58dac5a6ce1ed6d3f5f5e",
- "notes": "Impulses are small bright dashes with a tail again, quick, and visible from any distance. The brain's architect now checks its own work on your real brain (under the i button: The architecture, checked) and mends what it finds: pathways no longer cut through each other or through cells, dendrites keep clear of other cells."
+ "version": "0.104.4",
+ "build": 2172,
+ "apk": "kadath-0.104.4.apk",
+ "size": 64980571,
+ "sha256": "9c0172f6a10d636928bb851e4afe8f61afd05571198792329b54f1b6a5f70f38",
+ "notes": "The brain's architect untangles its pathways properly now: two pathways that would cut through each other both step aside, one over and one under, and it keeps at it until the whole architecture checks clean (under the i button: The architecture, checked)."
 }
