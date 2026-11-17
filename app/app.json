@@ -1,8 +1,8 @@
 {
- "version": "0.88.0",
- "build": 2147,
- "apk": "kadath-0.88.0.apk",
+ "version": "0.88.2",
+ "build": 2149,
+ "apk": "kadath-0.88.2.apk",
  "size": 60144410,
- "sha256": "d25718b1b8d9f6f76c736faa8a42e3c3ebd3569f3f38d5536a3bdd0dfe87a0bb",
- "notes": "The phone and your PC now keep everything the same over your Wi-Fi, with no broker: what Cortex studied, what it wrote and what it knows about you. On the same Wi-Fi the phone can also ask the PC directly, even when sealed. Fixed: it mixed up storage and memory, and showed a button as text."
+ "sha256": "6d70e7a1fa23acd1f20c98aeffb56d0f74a752bfc130fdc5e3253c28e83fe82d",
+ "notes": "The brain view no longer heats the phone (its background is drawn far more cheaply), so Cortex's own model can answer with the brain open. It reads the phone's battery and storage correctly now, and it can look at your PC when asked."
 }
