@@ -1,8 +1,8 @@
 {
- "version": "0.101.0",
- "build": 2165,
- "apk": "kadath-0.101.0.apk",
- "size": 64586735,
- "sha256": "972212c3ea77c95b5fb54f71c69905a08b59e0e6c1c225725b7402ecc16f3db6",
- "notes": "More of the brain is in real 3D: what was learned sits as small bodies on the twigs of its tree, a matured pathway wears its banded sheath, damage shows as gaps in a cell and a mended place keeps its seam, and choosing a neuron makes the rest step back. Colours are now the true ones of the colour code (they came out pale before)."
+ "version": "0.102.0",
+ "build": 2166,
+ "apk": "kadath-0.102.0.apk",
+ "size": 64652275,
+ "sha256": "4e772187331ed88f4bdd634c4f7eb4072ff4ced10c1f6c402c3cc7d1891c0595",
+ "notes": "Nothing in the brain grows outside its shell any more: dendrites turn at the surface and run on under it. Nerve cells are smaller, with long fine dendrites. What Cortex learns shows as twigs and spines growing on its trees, not as dots. When the brain has to grow it grows evenly on both sides. And the number of memories is the real one now (it had been stuck at 400)."
 }
