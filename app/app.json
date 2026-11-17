@@ -1,8 +1,8 @@
 {
- "version": "0.107.0",
- "build": 2175,
- "apk": "kadath-0.107.0.apk",
- "size": 65111727,
- "sha256": "37dd2a4f0e6a8842e430de9f03430413e2dc127233055a0daee52d8d01e658f5",
- "notes": "The brain is wired as a real one is: each cell has one axon that branches to the cells it sends to, each branch ends on the receiver's own dendrite (the synapse) with more contact points the more it is used, and a link nobody uses for weeks thins and withdraws until its next signal. Under the hood: systems with thousands of parts fit as populations on self-similar trees."
+ "version": "0.107.1",
+ "build": 2176,
+ "apk": "kadath-0.107.1.apk",
+ "size": 65111731,
+ "sha256": "a56b12e7941489e25a3923da999ca72a1a7cce1e03fa97b704c01c9146b5f9b4",
+ "notes": "What the brain has learned now sits where a real neuron keeps it: as spines on the cell's own dendrite. The dendrite grows out of the cell's body (the gap is gone), and each learned thing is one spine whose head is larger the more it holds, instead of a little bunch of balls."
 }
