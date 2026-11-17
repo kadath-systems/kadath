@@ -1,8 +1,8 @@
 {
- "version": "0.94.0",
- "build": 2157,
- "apk": "kadath-0.94.0.apk",
- "size": 60686678,
- "sha256": "9638a61fbc1d8586aeb04c1411bf133c9dfe3ba523e25592280c3881d8ec14bd",
- "notes": "The brain's pathways now run as real tracts do: curved bundles through the white matter, across the corpus callosum, and along each tree's limbs. Every moving light is one real signal on the path it took; nothing floats loose. Pathways are clearer and fade before the cells so the nodes stand out."
+ "version": "0.95.0",
+ "build": 2158,
+ "apk": "kadath-0.95.0.apk",
+ "size": 60686750,
+ "sha256": "fa535c4a51dd841202c08101721b826364ee754fc57414cc5e1c59559b2dfea9",
+ "notes": "The brain is now a real one: lobes, the named sulci and gyri, a cerebellum fitted under the occipital lobes and the brainstem, as green-tinted glass. Checking (did a fix work?) now lives in the cerebellum, with the crossed loop a real cerebellum uses."
 }
