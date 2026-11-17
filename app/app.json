@@ -1,8 +1,8 @@
 {
- "version": "0.104.2",
- "build": 2170,
- "apk": "kadath-0.104.2.apk",
- "size": 64915067,
- "sha256": "c2fa8a2a25ba3fa97f6a0bcdef37dbd25a2071b44cc1774c01c26f0e138d9cb7",
- "notes": "Impulses in the brain are the pathway's own travelling light again, now visible from any distance: a pathway glows where a real signal runs along it. The memory count in the header is right from the first moment."
+ "version": "0.104.3",
+ "build": 2171,
+ "apk": "kadath-0.104.3.apk",
+ "size": 64915031,
+ "sha256": "7ade00cb9d6b374b7645523acc505b6c9853b140fdf58dac5a6ce1ed6d3f5f5e",
+ "notes": "Impulses are small bright dashes with a tail again, quick, and visible from any distance. The brain's architect now checks its own work on your real brain (under the i button: The architecture, checked) and mends what it finds: pathways no longer cut through each other or through cells, dendrites keep clear of other cells."
 }
