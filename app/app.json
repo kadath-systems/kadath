@@ -1,8 +1,8 @@
 {
- "version": "0.104.4",
- "build": 2172,
- "apk": "kadath-0.104.4.apk",
- "size": 64980571,
- "sha256": "9c0172f6a10d636928bb851e4afe8f61afd05571198792329b54f1b6a5f70f38",
- "notes": "The brain's architect untangles its pathways properly now: two pathways that would cut through each other both step aside, one over and one under, and it keeps at it until the whole architecture checks clean (under the i button: The architecture, checked)."
+ "version": "0.105.0",
+ "build": 2173,
+ "apk": "kadath-0.105.0.apk",
+ "size": 65046103,
+ "sha256": "4cea5e30d70dff22ae6f49f51d2c4850dd2b649c43b5ee2a2cbd822fb44d46b6",
+ "notes": "The brain's pathways now run the way real fibres run: through the named tracts of the white matter (corpus callosum, cingulum, arcuate and the others), long and curved, gathered in bundles; a connection's page names the tracts it takes. The architecture check stays clean."
 }
