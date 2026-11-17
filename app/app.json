@@ -1,8 +1,8 @@
 {
- "version": "0.106.0",
- "build": 2174,
- "apk": "kadath-0.106.0.apk",
- "size": 65046195,
- "sha256": "52d19a1febda05e121290851f2f9577a552e33cdb8f39f23376affead2636e4b",
- "notes": "The lower back of the brain has its work now: grading and the check of the brain's own architecture in the cerebellum's hemispheres, pacing (heat) and retrying in its vermis; each appears when it first really works. Under the hood the brain can take in another system as a whole, by what its parts do."
+ "version": "0.107.0",
+ "build": 2175,
+ "apk": "kadath-0.107.0.apk",
+ "size": 65111727,
+ "sha256": "37dd2a4f0e6a8842e430de9f03430413e2dc127233055a0daee52d8d01e658f5",
+ "notes": "The brain is wired as a real one is: each cell has one axon that branches to the cells it sends to, each branch ends on the receiver's own dendrite (the synapse) with more contact points the more it is used, and a link nobody uses for weeks thins and withdraws until its next signal. Under the hood: systems with thousands of parts fit as populations on self-similar trees."
 }
