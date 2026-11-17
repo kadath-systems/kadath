@@ -1,8 +1,8 @@
 {
- "version": "0.98.0",
- "build": 2162,
- "apk": "kadath-0.98.0.apk",
- "size": 64451023,
- "sha256": "3a85d026144de4e914af11166e7f6a7d801a940b81b0ac95c313cc0f3704c06b",
- "notes": "The brain's shell is now drawn in real 3D: its folds have real depth and catch the light the way glass does. Everything inside is drawn over it as before. If a phone can't do it, the earlier shell is used automatically."
+ "version": "0.100.0",
+ "build": 2164,
+ "apk": "kadath-0.100.0.apk",
+ "size": 64585815,
+ "sha256": "410488f45e29ebb67f02d70c1827f3b19faf53a96261c316ea84eb4b31b7fc73",
+ "notes": "The brain's inside is now in real 3D too: every nerve cell has the form of the cells its brain structure is really made of (pyramidal cells in the cortex, Purkinje cells in the cerebellum, star-shaped cells in the deep nuclei), with their dendrites, the pathways and the impulses on them. If a phone can't do it, the earlier drawing is used automatically; it is also the fourth view of the view button."
 }
