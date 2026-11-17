@@ -1,8 +1,8 @@
 {
- "version": "0.104.0",
- "build": 2168,
- "apk": "kadath-0.104.0.apk",
- "size": 64849067,
- "sha256": "3dd16ae0303a17887c0d9a07db0bf5f7227a086cde97df34aa322c9ad8eeaabc",
- "notes": "Cortex sleeps on what it studied: at night, on the charger, each fact is looked up at another publisher with its own words (a confirmation needs the other's sentence, a contradiction a second look), facts become lessons, and it tests itself. The Learning card shows the last sleep and the trend. The calculator knows roots, logarithms and trigonometry."
+ "version": "0.104.1",
+ "build": 2169,
+ "apk": "kadath-0.104.1.apk",
+ "size": 64915807,
+ "sha256": "d14486194c6fad021f52b6e3b715d7560702aa2039aa6e7e16ef113ba4773ec8",
+ "notes": "Impulses are visible again in the brain: each real signal travels its pathway as a small body of light with its wake, the same size from far and from near."
 }
