@@ -1,8 +1,8 @@
 {
- "version": "0.89.0",
- "build": 2150,
- "apk": "kadath-0.89.0.apk",
- "size": 60275482,
- "sha256": "dd56ee4be4af19426352289833aa73bd1aa1f0c477854d28513412dcecbd0534",
- "notes": "The watch being away is no longer raised as an issue. You can now teach Cortex how to treat any kind of issue: this is normal, keep it quiet, or only when it lasts - on the issue's card, in Memory, or by telling it in the chat."
+ "version": "0.90.0",
+ "build": 2151,
+ "apk": "kadath-0.90.0.apk",
+ "size": 60424074,
+ "sha256": "213a06c3d5b13789bf57beeda252e8279f5c3669410e25d1fc4e9a6dcb5d9efc",
+ "notes": "Voice: tap the microphone by the talk line and speak to Cortex; it listens on the phone itself and answers aloud. Learn from this phone (Cortex > Memory): calendar, phone use, notifications (counts only), personal mail headers, starred contacts - each off until you switch it on; work apps, banking and message text are never read."
 }
