@@ -1,8 +1,8 @@
 {
- "version": "0.100.0",
- "build": 2164,
- "apk": "kadath-0.100.0.apk",
- "size": 64585815,
- "sha256": "410488f45e29ebb67f02d70c1827f3b19faf53a96261c316ea84eb4b31b7fc73",
- "notes": "The brain's inside is now in real 3D too: every nerve cell has the form of the cells its brain structure is really made of (pyramidal cells in the cortex, Purkinje cells in the cerebellum, star-shaped cells in the deep nuclei), with their dendrites, the pathways and the impulses on them. If a phone can't do it, the earlier drawing is used automatically; it is also the fourth view of the view button."
+ "version": "0.101.0",
+ "build": 2165,
+ "apk": "kadath-0.101.0.apk",
+ "size": 64586735,
+ "sha256": "972212c3ea77c95b5fb54f71c69905a08b59e0e6c1c225725b7402ecc16f3db6",
+ "notes": "More of the brain is in real 3D: what was learned sits as small bodies on the twigs of its tree, a matured pathway wears its banded sheath, damage shows as gaps in a cell and a mended place keeps its seam, and choosing a neuron makes the rest step back. Colours are now the true ones of the colour code (they came out pale before)."
 }
