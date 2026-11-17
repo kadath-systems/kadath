@@ -1,8 +1,8 @@
 {
- "version": "0.108.0",
- "build": 2177,
- "apk": "kadath-0.108.0.apk",
- "size": 65111727,
- "sha256": "f0dd8837cec8b712dd86259b9880374253081a9409513d7ef811b9f3a6267a4d",
- "notes": "The brain can take in another system, by your word only. The first is your PC's own AI: once the phone has heard from it, Brain > (i) > Other systems offers Let it in. Then it is no longer one neuron but its own parts (its model, study, notes, sleep, lessons, training, system eyes, scripts), each appearing when it first really works. Let it go removes it whole."
+ "version": "0.108.1",
+ "build": 2178,
+ "apk": "kadath-0.108.1.apk",
+ "size": 65111731,
+ "sha256": "fe3a962713dab5f96d7d06b7f04eecc5018ec4109b1a402e38bcd514101387f3",
+ "notes": "No more grape-like bunches: what the brain has learned now sits as short spines along the whole length of the cell's dendrite, each close to it with a small head, the way spines sit on a real neuron's dendrite."
 }
