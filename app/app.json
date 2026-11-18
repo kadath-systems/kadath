@@ -1,8 +1,8 @@
 {
- "version": "0.113.0",
- "build": 2184,
- "apk": "kadath-0.113.0.apk",
- "size": 65308371,
- "sha256": "eef0e3d62f7421339da6c18ce0b4c485af9b145facfc15f46c339f3e3af5d411",
- "notes": "Decide on the card: one of Cortex's ideas now has Approve and Decline right on its card, and a system it found has Let it in and Not now, each saying plainly what happens. Both stand under Needs you."
+ "version": "0.114.0",
+ "build": 2185,
+ "apk": "kadath-0.114.0.apk",
+ "size": 65439447,
+ "sha256": "4501f1fbecc4896975fb26f888a05c057ad469c4f8983d99d2ef40922475e4d1",
+ "notes": "The brain shows only what is used and true: a part nothing uses is let go, every dendrite receives a pathway and grows with its use (its page lists them), and the check compares what is shown with its sources. New: the growth timeline (the timeline button in the Brain view) plays the brain from its first signal to now."
 }
