@@ -1,8 +1,8 @@
 {
- "version": "0.112.0",
- "build": 2183,
- "apk": "kadath-0.112.0.apk",
+ "version": "0.113.0",
+ "build": 2184,
+ "apk": "kadath-0.113.0.apk",
  "size": 65308371,
- "sha256": "f54d8c5e17aa707fa55551fd446c7d5f6242d305b823671f4e63d93c53f2392a",
- "notes": "Cortex has ideas of its own: it finds in its record an issue that keeps passing by itself and proposes how to treat it; nothing changes until you approve (Cortex > Memory > My ideas), and after two weeks it is measured and taken back if it did not help. Your PC's AI does the same for itself and the computer; its ideas show as a note here and are decided at the PC."
+ "sha256": "eef0e3d62f7421339da6c18ce0b4c485af9b145facfc15f46c339f3e3af5d411",
+ "notes": "Decide on the card: one of Cortex's ideas now has Approve and Decline right on its card, and a system it found has Let it in and Not now, each saying plainly what happens. Both stand under Needs you."
 }
