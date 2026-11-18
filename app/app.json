@@ -1,8 +1,8 @@
 {
- "version": "0.119.0",
- "build": 2192,
- "apk": "kadath-0.119.0.apk",
+ "version": "0.120.0",
+ "build": 2193,
+ "apk": "kadath-0.120.0.apk",
  "size": 65709231,
- "sha256": "d015e7d137f0360ec4aa2baa432bf6cbfd041acb6323c9cfaafefa15847af8a7",
- "notes": "Search the brain by address (part / category / words, for example: printer 1 / history), and Ask Cortex can now look in its own store: what is usual for a part, what went wrong before, what fixed it, what you taught, what changed and what was printed."
+ "sha256": "be06f49b15672974a685207659ca71242276b51fa0fbf15ceccdd5f29772ee82",
+ "notes": "A learned thing's spine keeps its full size while it is used and thins when it is not (never lost); what sleep confirmed is a firm spine. A record's page says how often it was used. A printer's model is no longer listed as changed when only the link changed; usual readings are said in plain words with their unit."
 }
