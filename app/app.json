@@ -1,8 +1,8 @@
 {
- "version": "0.114.0",
- "build": 2185,
- "apk": "kadath-0.114.0.apk",
- "size": 65439447,
- "sha256": "4501f1fbecc4896975fb26f888a05c057ad469c4f8983d99d2ef40922475e4d1",
- "notes": "The brain shows only what is used and true: a part nothing uses is let go, every dendrite receives a pathway and grows with its use (its page lists them), and the check compares what is shown with its sources. New: the growth timeline (the timeline button in the Brain view) plays the brain from its first signal to now."
+ "version": "0.115.0",
+ "build": 2186,
+ "apk": "kadath-0.115.0.apk",
+ "size": 65504979,
+ "sha256": "fb2bae7b90f9e5a1c6c8b6de71ee58ff2da039e21a7bc2df39922f7f3f065068",
+ "notes": "The brain's pathways as in a real brain: a two-way link is two fibres, an axon's branches leave it one after another, a much-connected cell forks a twig for every further pathway, chains of parts that fire in the same order are learned as circuits you can play, and every signal is shown passing through its cell. A mandatory first rule: every kind of element has its whole life written, from birth to going (under the i button)."
 }
