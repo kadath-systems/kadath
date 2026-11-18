@@ -1,8 +1,8 @@
 {
- "version": "0.115.1",
- "build": 2187,
- "apk": "kadath-0.115.1.apk",
- "size": 65504979,
- "sha256": "9731aafb505118cbb82cf3c97f1e3640e788b78092e82763dfc8fc93fb5749e7",
- "notes": "The brain's check no longer says a two-way link is one fibre: that line now agrees with the rule beside it (each two-way link has a second fibre)."
+ "version": "0.116.0",
+ "build": 2188,
+ "apk": "kadath-0.116.0.apk",
+ "size": 65578051,
+ "sha256": "d3a5d84b46c940fa16a311d005fa2538801a6beaecbb2f10840d401aca5cd683",
+ "notes": "The brain from near, as real neurons look: smooth round dendrites that bend gently at the brain's surface, synapses as they are (the fibre's boutons facing spines of the dendrite), each sending cell narrowing into its axon, the nucleus seen through the body. A better picture: what is in front hides what is behind, light from beside the eye with a wet sheen, and far things fade back."
 }
