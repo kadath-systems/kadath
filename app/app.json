@@ -1,8 +1,8 @@
 {
- "version": "0.118.0",
- "build": 2191,
- "apk": "kadath-0.118.0.apk",
- "size": 65643695,
- "sha256": "252ad965bae45a769dfd50dabfd60288366e69de3c047067d6281ada01e49d92",
- "notes": "Every cell now keeps what Kadath knows about its part in order: six storage dendrites (Knows, Usual, Trouble, Remedies, Told, History), each record a spine, with an address; an empty category is a short fine process. Pathways cross between the two halves of the brain only where real fibres do (the corpus callosum and the other commissures, the brainstem), and dendrites stay in their own half."
+ "version": "0.119.0",
+ "build": 2192,
+ "apk": "kadath-0.119.0.apk",
+ "size": 65709231,
+ "sha256": "d015e7d137f0360ec4aa2baa432bf6cbfd041acb6323c9cfaafefa15847af8a7",
+ "notes": "Search the brain by address (part / category / words, for example: printer 1 / history), and Ask Cortex can now look in its own store: what is usual for a part, what went wrong before, what fixed it, what you taught, what changed and what was printed."
 }
