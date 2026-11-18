@@ -1,8 +1,8 @@
 {
- "version": "0.115.0",
- "build": 2186,
- "apk": "kadath-0.115.0.apk",
+ "version": "0.115.1",
+ "build": 2187,
+ "apk": "kadath-0.115.1.apk",
  "size": 65504979,
- "sha256": "fb2bae7b90f9e5a1c6c8b6de71ee58ff2da039e21a7bc2df39922f7f3f065068",
- "notes": "The brain's pathways as in a real brain: a two-way link is two fibres, an axon's branches leave it one after another, a much-connected cell forks a twig for every further pathway, chains of parts that fire in the same order are learned as circuits you can play, and every signal is shown passing through its cell. A mandatory first rule: every kind of element has its whole life written, from birth to going (under the i button)."
+ "sha256": "9731aafb505118cbb82cf3c97f1e3640e788b78092e82763dfc8fc93fb5749e7",
+ "notes": "The brain's check no longer says a two-way link is one fibre: that line now agrees with the rule beside it (each two-way link has a second fibre)."
 }
