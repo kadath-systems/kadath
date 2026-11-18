@@ -1,8 +1,8 @@
 {
- "version": "0.111.0",
- "build": 2182,
- "apk": "kadath-0.111.0.apk",
- "size": 65308367,
- "sha256": "ace47f5600de82389cd29b583324992e46aaed75720c3569174f6a2e03938648",
- "notes": "Cortex knows when your PC's own brain is taught from its lessons and what the exam decided: in the brain, the night's replay, the Learning card and Ask Cortex."
+ "version": "0.112.0",
+ "build": 2183,
+ "apk": "kadath-0.112.0.apk",
+ "size": 65308371,
+ "sha256": "f54d8c5e17aa707fa55551fd446c7d5f6242d305b823671f4e63d93c53f2392a",
+ "notes": "Cortex has ideas of its own: it finds in its record an issue that keeps passing by itself and proposes how to treat it; nothing changes until you approve (Cortex > Memory > My ideas), and after two weeks it is measured and taken back if it did not help. Your PC's AI does the same for itself and the computer; its ideas show as a note here and are decided at the PC."
 }
