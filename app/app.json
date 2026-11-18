@@ -1,8 +1,8 @@
 {
- "version": "0.110.0",
- "build": 2181,
- "apk": "kadath-0.110.0.apk",
- "size": 65242835,
- "sha256": "0337e8abd9ab662a3972bcd971de2f1bfaddad4868a1bf40a92a9f5b520e7e05",
- "notes": "Cortex remembers your conversations. The one you are in is still there when you open the app again, and when a conversation ends it keeps a few sentences about it in its own words, sealed on your phone, so next time it knows what you talked about (Cortex > Memory > What we talked about: forget any or all). It also asks back when a question could mean two things, and goes step by step when you ask it to think something through."
+ "version": "0.111.0",
+ "build": 2182,
+ "apk": "kadath-0.111.0.apk",
+ "size": 65308367,
+ "sha256": "ace47f5600de82389cd29b583324992e46aaed75720c3569174f6a2e03938648",
+ "notes": "Cortex knows when your PC's own brain is taught from its lessons and what the exam decided: in the brain, the night's replay, the Learning card and Ask Cortex."
 }
