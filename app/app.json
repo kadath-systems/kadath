@@ -1,8 +1,8 @@
 {
- "version": "0.121.0",
- "build": 2194,
- "apk": "kadath-0.121.0.apk",
- "size": 65840307,
- "sha256": "c9a9ceb2b8ab2db0c4b774b375bc608182817825fe942d7d66ce95e7608d4caf",
- "notes": "The brain shows what is running: a part with work in hand (a topic being read, the night's sleep, an answer, a print, a check) is lit and wears a ring that fills; each part's page lists its work and the cycles it keeps."
+ "version": "0.122.0",
+ "build": 2195,
+ "apk": "kadath-0.122.0.apk",
+ "size": 65840303,
+ "sha256": "7097f153c1d2a6e8405758160d5dd0128f15fe938c1e847f53d41223d011ccf8",
+ "notes": "The brain shows what is held back and why: the seal, a hot phone, the charger, your quiet hours, what you taught it, a cool-down. The held part wears a still ring of dashes; its page says what holds it."
 }
