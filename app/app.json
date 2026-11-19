@@ -1,8 +1,8 @@
 {
- "version": "0.123.1",
- "build": 2197,
- "apk": "kadath-0.123.1.apk",
- "size": 65905839,
- "sha256": "3f588ae68374e2fc6ad7c1cc078bd5fa77782579b1a5372ee7f5e22810664d35",
- "notes": "Short pieces of work now say how long they took in seconds instead of 'now'; the brain's cycles no longer look late."
+ "version": "0.123.2",
+ "build": 2198,
+ "apk": "kadath-0.123.2.apk",
+ "size": 65905843,
+ "sha256": "a374ced4957b90b1fd3abdcacaa15d3474a100166196ff3b847c6141357703ac",
+ "notes": "A record's page says what kind of record it is (a print, a change, a usual reading, a remedy, something you taught)."
 }
