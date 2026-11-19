@@ -1,8 +1,8 @@
 {
- "version": "0.126.0",
- "build": 2202,
- "apk": "kadath-0.126.0.apk",
+ "version": "0.127.0",
+ "build": 2205,
+ "apk": "kadath-0.127.0.apk",
  "size": 66036983,
- "sha256": "57d8afffae217ae550cda0e41c899aa47e34e764aa2a74409b5db2eebf4fb200",
- "notes": "The AI looks the weather up (the watch, the phone, your place, or a place from the phone's time zone) and reads the encyclopedia when its notes don't cover a question; no more \"I don'm\"; its exam on the phone."
+ "sha256": "f43ca675de70343373392f928cc87710c47a5a7ba7c615e9ef3692759be5d701",
+ "notes": "Long conversations: older turns are summed up instead of forgotten. A larger working memory, so looking things up no longer overflows it. Only the answer: no preface or closing offer."
 }
