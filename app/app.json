@@ -1,8 +1,8 @@
 {
- "version": "0.120.0",
- "build": 2193,
- "apk": "kadath-0.120.0.apk",
- "size": 65709231,
- "sha256": "be06f49b15672974a685207659ca71242276b51fa0fbf15ceccdd5f29772ee82",
- "notes": "A learned thing's spine keeps its full size while it is used and thins when it is not (never lost); what sleep confirmed is a firm spine. A record's page says how often it was used. A printer's model is no longer listed as changed when only the link changed; usual readings are said in plain words with their unit."
+ "version": "0.121.0",
+ "build": 2194,
+ "apk": "kadath-0.121.0.apk",
+ "size": 65840307,
+ "sha256": "c9a9ceb2b8ab2db0c4b774b375bc608182817825fe942d7d66ce95e7608d4caf",
+ "notes": "The brain shows what is running: a part with work in hand (a topic being read, the night's sleep, an answer, a print, a check) is lit and wears a ring that fills; each part's page lists its work and the cycles it keeps."
 }
