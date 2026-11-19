@@ -1,8 +1,8 @@
 {
- "version": "0.123.2",
- "build": 2198,
- "apk": "kadath-0.123.2.apk",
- "size": 65905843,
- "sha256": "a374ced4957b90b1fd3abdcacaa15d3474a100166196ff3b847c6141357703ac",
- "notes": "A record's page says what kind of record it is (a print, a change, a usual reading, a remedy, something you taught)."
+ "version": "0.124.0",
+ "build": 2199,
+ "apk": "kadath-0.124.0.apk",
+ "size": 65905863,
+ "sha256": "c4a08aa3bbd8b46595729e71449798b56bdf96d705933c215121d92417845e20",
+ "notes": "Cortex settings > The camera: every camera is off until you switch it on, and nothing it sees leaves the phone. While a camera is used you are told and 'Sight' lights up in the brain; every use is in a journal you can read. (There are no eyes yet: this is the guard, built first.)"
 }
