@@ -1,8 +1,8 @@
 {
- "version": "0.125.1",
- "build": 2201,
- "apk": "kadath-0.125.1.apk",
- "size": 65905915,
- "sha256": "7a7f13e58553f64ef6e0d9dc37eb884af483261ef7fd8beb0ad011a9d6cf37f5",
- "notes": "A large photo is made smaller on the phone before Cortex looks at it, instead of being refused."
+ "version": "0.126.0",
+ "build": 2202,
+ "apk": "kadath-0.126.0.apk",
+ "size": 66036983,
+ "sha256": "57d8afffae217ae550cda0e41c899aa47e34e764aa2a74409b5db2eebf4fb200",
+ "notes": "The AI looks the weather up (the watch, the phone, your place, or a place from the phone's time zone) and reads the encyclopedia when its notes don't cover a question; no more \"I don'm\"; its exam on the phone."
 }
