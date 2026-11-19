@@ -1,8 +1,8 @@
 {
- "version": "0.122.0",
- "build": 2195,
- "apk": "kadath-0.122.0.apk",
- "size": 65840303,
- "sha256": "7097f153c1d2a6e8405758160d5dd0128f15fe938c1e847f53d41223d011ccf8",
- "notes": "The brain shows what is held back and why: the seal, a hot phone, the charger, your quiet hours, what you taught it, a cool-down. The held part wears a still ring of dashes; its page says what holds it."
+ "version": "0.123.0",
+ "build": 2196,
+ "apk": "kadath-0.123.0.apk",
+ "size": 65840307,
+ "sha256": "16339cec3f4ee90a9e692701b88de6e9038f61858b062283d6af9f8335a493c0",
+ "notes": "The brain says what its work costs: for each part, how long it worked, the processor time, the battery off the charger and the warming, today and over the week. Cortex tells you if a part used much of the battery."
 }
