@@ -1,8 +1,8 @@
 {
- "version": "0.123.0",
- "build": 2196,
- "apk": "kadath-0.123.0.apk",
- "size": 65840307,
- "sha256": "16339cec3f4ee90a9e692701b88de6e9038f61858b062283d6af9f8335a493c0",
- "notes": "The brain says what its work costs: for each part, how long it worked, the processor time, the battery off the charger and the warming, today and over the week. Cortex tells you if a part used much of the battery."
+ "version": "0.123.1",
+ "build": 2197,
+ "apk": "kadath-0.123.1.apk",
+ "size": 65905839,
+ "sha256": "3f588ae68374e2fc6ad7c1cc078bd5fa77782579b1a5372ee7f5e22810664d35",
+ "notes": "Short pieces of work now say how long they took in seconds instead of 'now'; the brain's cycles no longer look late."
 }
