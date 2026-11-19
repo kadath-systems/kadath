@@ -1,8 +1,8 @@
 {
- "version": "0.125.0",
- "build": 2200,
- "apk": "kadath-0.125.0.apk",
+ "version": "0.125.1",
+ "build": 2201,
+ "apk": "kadath-0.125.1.apk",
  "size": 65905915,
- "sha256": "75e350f8954063b2da9a2d22ad0fc3101c66d492f06e660b87aefe5ab1e00496",
- "notes": "Show Cortex a picture: the picture button in its talk bar lets the phone's own model look at an image you choose. It stays on the phone, used for that one answer and not kept."
+ "sha256": "7a7f13e58553f64ef6e0d9dc37eb884af483261ef7fd8beb0ad011a9d6cf37f5",
+ "notes": "A large photo is made smaller on the phone before Cortex looks at it, instead of being refused."
 }
