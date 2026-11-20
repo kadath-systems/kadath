@@ -1,8 +1,8 @@
 {
- "version": "0.127.0",
- "build": 2205,
- "apk": "kadath-0.127.0.apk",
- "size": 66036983,
- "sha256": "f43ca675de70343373392f928cc87710c47a5a7ba7c615e9ef3692759be5d701",
- "notes": "Long conversations: older turns are summed up instead of forgotten. A larger working memory, so looking things up no longer overflows it. Only the answer: no preface or closing offer."
+ "version": "0.130.11",
+ "build": 2228,
+ "apk": "kadath-0.130.11.apk",
+ "size": 46725154,
+ "sha256": "6486c0683cc0c9447c75d3fdd6c350e8e3d6622b63ff32a3ef5ba752f30cce3f",
+ "notes": "The Cortex page gives the brain the room: the conversation and the talk line stand under it and fold away, shown when you want them. A question is taken at once. Cortex's own background work no longer heats or drains the phone: it stops when the phone gets hot, waits when the battery is low or the charger does not keep up, and gives way the moment you ask something. Its night's sleep and its exam go on over several cool spells. More issues now show their explanation."
 }
