@@ -1,8 +1,8 @@
 {
- "version": "0.132.3",
- "build": 2237,
- "apk": "kadath-0.132.3.apk",
- "size": 46780614,
- "sha256": "2eb173e75632ff22ce4b57691fc5cb6e4d8398cfdd9a6040078a9adeab743dff",
- "notes": "Clear answers: an answer the encyclopedia confirmed stands alone, with no line about the check under it and no source in brackets at its end. How it was checked is in the answer's details. The first question after this update reads its instructions once more (a few minutes)."
+ "version": "0.133.0",
+ "build": 2239,
+ "apk": "kadath-0.133.0.apk",
+ "size": 46828318,
+ "sha256": "ff113a4c2c4bdbb27cfa1cd43591991f87fef12c818aca00f1b6115a005f320e",
+ "notes": "The guard: every piece of code the AI writes, receives from your PC or is about to run is judged by fixed rules first. Harmful code is labelled with its type, explained line by line (how it works, how it harms, what it means on this phone) and never kept as a file or run: Cortex > Memory > Harmful code I caught. Cortex also tells you when your PC caught a harmful script. A short question is treated as a follow-up only when it leans on the one before."
 }
