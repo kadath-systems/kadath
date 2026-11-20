@@ -1,8 +1,8 @@
 {
- "version": "0.132.1",
- "build": 2235,
- "apk": "kadath-0.132.1.apk",
- "size": 46780042,
- "sha256": "63c7208bf2ba336d8fd24e7ec3de50b56b9c990992430edc46f07b69ffc442fb",
- "notes": "It speaks as I, and shows only its final answer: while it writes and checks, it says what it is doing. The count of tokens read moves in real time, with the reading speed. An answer from memory that names someone or a decade is checked in the encyclopedia; a promise to look something up is carried out. When heat stops an answer and your PC is on the same Wi-Fi, a button hands the question to the PC. Emphasis marks are taken off answers. Its saved instructions are kept where Android cannot clear them."
+ "version": "0.132.2",
+ "build": 2236,
+ "apk": "kadath-0.132.2.apk",
+ "size": 46780202,
+ "sha256": "dae986849621e6dc7688b4486f3ac0bf1777b7acc05fd37148ecccf062485793",
+ "notes": "Answers that need checking come about three times sooner: the encyclopedia page for a question is now the one about its subject (X-ray, not X-ray diffraction), so a right answer is confirmed without being written again. Names with letters like o-umlaut are looked up too. 'The conversation' is no longer named as a source."
 }
