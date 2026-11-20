@@ -1,8 +1,8 @@
 {
- "version": "0.132.2",
- "build": 2236,
- "apk": "kadath-0.132.2.apk",
- "size": 46780202,
- "sha256": "dae986849621e6dc7688b4486f3ac0bf1777b7acc05fd37148ecccf062485793",
- "notes": "Answers that need checking come about three times sooner: the encyclopedia page for a question is now the one about its subject (X-ray, not X-ray diffraction), so a right answer is confirmed without being written again. Names with letters like o-umlaut are looked up too. 'The conversation' is no longer named as a source."
+ "version": "0.132.3",
+ "build": 2237,
+ "apk": "kadath-0.132.3.apk",
+ "size": 46780614,
+ "sha256": "2eb173e75632ff22ce4b57691fc5cb6e4d8398cfdd9a6040078a9adeab743dff",
+ "notes": "Clear answers: an answer the encyclopedia confirmed stands alone, with no line about the check under it and no source in brackets at its end. How it was checked is in the answer's details. The first question after this update reads its instructions once more (a few minutes)."
 }
