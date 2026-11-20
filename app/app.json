@@ -1,8 +1,8 @@
 {
- "version": "0.132.0",
- "build": 2234,
- "apk": "kadath-0.132.0.apk",
- "size": 46778602,
- "sha256": "41cbc554849ba698063387d2ed9b23fbf474aed665bb7601dc079f6858727d98",
- "notes": "Under a running answer: which processor cores its model runs on and how fast the phone lets them go; the same in an answer's details. Three cores by default (measured best on a warm phone). A question about the world reads less each time. A question loads its saved instructions back after the engine restarts or sleeps. An answer is checked against the encyclopedia pages of what it names. A source it did not read is no longer named."
+ "version": "0.132.1",
+ "build": 2235,
+ "apk": "kadath-0.132.1.apk",
+ "size": 46780042,
+ "sha256": "63c7208bf2ba336d8fd24e7ec3de50b56b9c990992430edc46f07b69ffc442fb",
+ "notes": "It speaks as I, and shows only its final answer: while it writes and checks, it says what it is doing. The count of tokens read moves in real time, with the reading speed. An answer from memory that names someone or a decade is checked in the encyclopedia; a promise to look something up is carried out. When heat stops an answer and your PC is on the same Wi-Fi, a button hands the question to the PC. Emphasis marks are taken off answers. Its saved instructions are kept where Android cannot clear them."
 }
