@@ -1,8 +1,8 @@
 {
- "version": "0.130.11",
- "build": 2228,
- "apk": "kadath-0.130.11.apk",
- "size": 46725154,
- "sha256": "6486c0683cc0c9447c75d3fdd6c350e8e3d6622b63ff32a3ef5ba752f30cce3f",
- "notes": "The Cortex page gives the brain the room: the conversation and the talk line stand under it and fold away, shown when you want them. A question is taken at once. Cortex's own background work no longer heats or drains the phone: it stops when the phone gets hot, waits when the battery is low or the charger does not keep up, and gives way the moment you ask something. Its night's sleep and its exam go on over several cool spells. More issues now show their explanation."
+ "version": "0.132.0",
+ "build": 2234,
+ "apk": "kadath-0.132.0.apk",
+ "size": 46778602,
+ "sha256": "41cbc554849ba698063387d2ed9b23fbf474aed665bb7601dc079f6858727d98",
+ "notes": "Under a running answer: which processor cores its model runs on and how fast the phone lets them go; the same in an answer's details. Three cores by default (measured best on a warm phone). A question about the world reads less each time. A question loads its saved instructions back after the engine restarts or sleeps. An answer is checked against the encyclopedia pages of what it names. A source it did not read is no longer named."
 }
