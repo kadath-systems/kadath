@@ -1,8 +1,8 @@
 {
- "version": "0.135.5",
- "build": 2250,
- "apk": "kadath-0.135.5.apk",
- "size": 46862314,
- "sha256": "4019de979adf22404eadae51a677e4704f099b126ff0e8da92ed22e5bf0c0c81",
- "notes": "Cortex now watches the phone's own ways in: a new device administrator, accessibility service, notification reader, keyboard, certificate, debugging, VPN or paired device is a card asking whether it is yours. Pull Cortex's Now tab down to read everything anew."
+ "version": "0.135.6",
+ "build": 2251,
+ "apk": "kadath-0.135.6.apk",
+ "size": 46876050,
+ "sha256": "dea05405fc646dfce9729c09a2f6681cdf52da5d756476a3cef296f7a25aba5e",
+ "notes": "The brain keeps the gap between its two halves empty: on the midline only the callosum, the commissures and the other real midline bodies are tissue, and every fibre between the halves crosses where its two ends say, as in a real brain (the callosum's map by Hofer and Frahm). No cell sits in white matter any more. Pull Cortex's Now tab down to read everything anew."
 }
