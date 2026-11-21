@@ -1,8 +1,8 @@
 {
- "version": "0.135.1",
- "build": 2246,
- "apk": "kadath-0.135.1.apk",
- "size": 46848810,
- "sha256": "82e107adff289d800f33d60294bb53f4df759ad25f14c8fa7ea468d4de0792cd",
- "notes": "Issues now carry buttons that fit them: quick ways to treat something Cortex cannot fix itself (Not until tomorrow, List it don't tell me, This is normal), Give access or Switch it off for a source Android has not allowed, Read it for code kept as text. Harmful code is said as written at your request, with how the system defends against it. A source that keeps failing is set aside for a week by itself. A question in progress comes back after a restart. The brain can wear what your PC taught it, once that file is on the phone."
+ "version": "0.135.4",
+ "build": 2249,
+ "apk": "kadath-0.135.4.apk",
+ "size": 46846626,
+ "sha256": "bd10bb8310457071717bd0b6e451096830fdcd309f2547bf15d67b89f920ef6b",
+ "notes": "Access you give Android is noticed at once: the card for a missing access goes by itself and Cortex starts learning from it. A stop button for an answer. The missing-access card explains Android's restricted settings."
 }
