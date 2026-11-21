@@ -1,8 +1,8 @@
 {
- "version": "0.133.0",
- "build": 2239,
- "apk": "kadath-0.133.0.apk",
- "size": 46828318,
- "sha256": "ff113a4c2c4bdbb27cfa1cd43591991f87fef12c818aca00f1b6115a005f320e",
- "notes": "The guard: every piece of code the AI writes, receives from your PC or is about to run is judged by fixed rules first. Harmful code is labelled with its type, explained line by line (how it works, how it harms, what it means on this phone) and never kept as a file or run: Cortex > Memory > Harmful code I caught. Cortex also tells you when your PC caught a harmful script. A short question is treated as a follow-up only when it leans on the one before."
+ "version": "0.134.3",
+ "build": 2243,
+ "apk": "kadath-0.134.3.apk",
+ "size": 46831786,
+ "sha256": "35d3010ad8a16560c58606cead2fa82ca0a8b65de0375990047ff3ab3c804c0c",
+ "notes": "Plain questions of knowledge are answered much faster (about 20 seconds instead of minutes): a short set of instructions of their own, and the answer is still checked in the encyclopedia. When there is no internet, Cortex says so in one plain line instead of filling its thoughts with red error text."
 }
