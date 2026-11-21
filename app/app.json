@@ -1,8 +1,8 @@
 {
- "version": "0.135.4",
- "build": 2249,
- "apk": "kadath-0.135.4.apk",
- "size": 46846626,
- "sha256": "bd10bb8310457071717bd0b6e451096830fdcd309f2547bf15d67b89f920ef6b",
- "notes": "Access you give Android is noticed at once: the card for a missing access goes by itself and Cortex starts learning from it. A stop button for an answer. The missing-access card explains Android's restricted settings."
+ "version": "0.135.5",
+ "build": 2250,
+ "apk": "kadath-0.135.5.apk",
+ "size": 46862314,
+ "sha256": "4019de979adf22404eadae51a677e4704f099b126ff0e8da92ed22e5bf0c0c81",
+ "notes": "Cortex now watches the phone's own ways in: a new device administrator, accessibility service, notification reader, keyboard, certificate, debugging, VPN or paired device is a card asking whether it is yours. Pull Cortex's Now tab down to read everything anew."
 }
