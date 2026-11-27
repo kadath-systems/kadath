@@ -1,7 +1,7 @@
 {
- "version": "0.8.48",
- "exe": "KadathCompanion-0.8.48.exe",
- "size": 48874539,
- "sha256": "db534765bdba6ec5a6eff4ee349360dbaf2607d30bdd442d98348f8ef8d327b1",
- "notes": "The slicer: support boxes and painted supports on a model. The Claude and Claude Code views open again."
+ "version": "0.8.49",
+ "exe": "KadathCompanion-0.8.49.exe",
+ "size": 48880168,
+ "sha256": "de918646517ceaff1e4b565fe3f904970c8e500343963a0ae833bb979d2138b1",
+ "notes": "Skip objects of a running print from the PC window: the plate from above, chosen by a click, a held press."
 }
