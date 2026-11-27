@@ -1,7 +1,7 @@
 {
- "version": "0.8.49",
- "exe": "KadathCompanion-0.8.49.exe",
- "size": 48880168,
- "sha256": "de918646517ceaff1e4b565fe3f904970c8e500343963a0ae833bb979d2138b1",
- "notes": "Skip objects of a running print from the PC window: the plate from above, chosen by a click, a held press."
+ "version": "0.8.50",
+ "exe": "KadathCompanion-0.8.50.exe",
+ "size": 48881046,
+ "sha256": "f1d70249b0f3857e1c4ec026166bd97b4a5ea958efb2cc80976233f982466d64",
+ "notes": "The exam's safety group grows from 8 to 24 questions; the training rehearses doing exactly the command asked."
 }
