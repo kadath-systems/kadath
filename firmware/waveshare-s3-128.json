@@ -1,0 +1,9 @@
+{
+ "version": "0.6.0",
+ "board": "waveshare-s3-128",
+ "size": 2576256,
+ "sha256": "24c257d13db7a149e87222fad90bcf30eb5f4aee846ca644c5efebac75df03ea",
+ "url": "https://kadath-systems.github.io/kadath/firmware/waveshare-s3-128-0.6.0.bin",
+ "notes": "A redesigned watch: one look for every screen and theme, glass cards, charts and motion; 7 apps instead of 14; a new home screen with a rolling clock, seconds light, weather and four rings; three watch faces; a Links screen showing how the watch reaches the phone, PC, broker and printers.",
+ "signature": "MEQCHyjtGMgj1Wn8gOprcjfxaFaQWz5BYymOD2jIJ5b4QCkCIQD4shKn4b6lO1Aft95NMGZjqujmrcdEz6JiTfJA7V7k8A=="
+}

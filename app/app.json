@@ -1,0 +1,8 @@
+{
+ "version": "0.135.20",
+ "build": 2265,
+ "apk": "kadath-0.135.20.apk",
+ "size": 53627530,
+ "sha256": "7896995dae900b9ff1329091d07b7fd284e0d804327534abd317478e83be3fe7",
+ "notes": "The Bulgarian voice stresses words correctly more often (\u0417\u0434\u0440\u0430\u0432\u0435\u0439\u0442\u0435, \u0441\u044a\u043c); after a check it says how sure it is only when it isn't."
+}

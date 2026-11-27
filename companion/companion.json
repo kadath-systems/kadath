@@ -1,0 +1,7 @@
+{
+ "version": "0.8.46",
+ "exe": "KadathCompanion-0.8.46.exe",
+ "size": 48861970,
+ "sha256": "b213b47e11fca95fdbfa0613e84dc545f3cb8e8edb9e0f1d724afd61ff238737",
+ "notes": "The seed's next size: a larger seed grows beside the present one once it is full, and takes over only when it does better on the same unseen text."
+}
