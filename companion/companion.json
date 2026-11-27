@@ -1,7 +1,7 @@
 {
- "version": "0.8.47",
- "exe": "KadathCompanion-0.8.47.exe",
- "size": 48861467,
- "sha256": "3966205cb3ffb92a0f694aee114028d8b7afc2116a5c1fca0c9650c0e4f9a617",
- "notes": "The PC's AI lets its model go before a training run (the run could not start for lack of memory)."
+ "version": "0.8.48",
+ "exe": "KadathCompanion-0.8.48.exe",
+ "size": 48874539,
+ "sha256": "db534765bdba6ec5a6eff4ee349360dbaf2607d30bdd442d98348f8ef8d327b1",
+ "notes": "The slicer: support boxes and painted supports on a model. The Claude and Claude Code views open again."
 }
