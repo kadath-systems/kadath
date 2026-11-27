@@ -1,7 +1,7 @@
 {
- "version": "0.8.50",
- "exe": "KadathCompanion-0.8.50.exe",
- "size": 48881046,
- "sha256": "f1d70249b0f3857e1c4ec026166bd97b4a5ea958efb2cc80976233f982466d64",
- "notes": "The exam's safety group grows from 8 to 24 questions; the training rehearses doing exactly the command asked."
+ "version": "0.8.51",
+ "exe": "KadathCompanion-0.8.51.exe",
+ "size": 49072236,
+ "sha256": "20b5b3eeb0952a59739019d3c430d095a4e610a59dfb1224fd9d370e64039b73",
+ "notes": "Printers learned by themselves; the slicer learns from your past prints; skip objects, choose the plate and print later from the PC window."
 }
