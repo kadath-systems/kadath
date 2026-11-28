@@ -1,7 +1,7 @@
 {
- "version": "0.8.54",
- "exe": "KadathCompanion-0.8.54.exe",
- "size": 51965926,
- "sha256": "e63098d984d47a05e4439134483b178dd915f7fb129fb1227c1957383ab41861",
- "notes": "Your portable Raspberry Pi: an encrypted off-site copy of what cannot be fetched again, sent whenever the Pi can be reached (never over a phone's hotspot); its state and the copy's age in Kadath's health card; the project kept current on it. The training run loads its weights in parts (it failed when the page file could not grow)."
+ "version": "0.8.55",
+ "exe": "KadathCompanion-0.8.55.exe",
+ "size": 52465922,
+ "sha256": "a51b02fee9126f561ae0c9653e66eac2b5618c62d10a8868527fda13a3290550",
+ "notes": "Uses far less of your broker's monthly allowance: the watch's state is shared instead of fetched by every part, the printer relays send only what changed, Cortex's memory goes over the home Wi-Fi. Finds the right encyclopedia page more often (41 of 50 questions, was 33)."
 }
