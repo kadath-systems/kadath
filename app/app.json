@@ -1,8 +1,8 @@
 {
- "version": "0.135.25",
- "build": 2270,
- "apk": "kadath-0.135.25.apk",
- "size": 60069816,
- "sha256": "c35d54eb5adc7ba76f1f6647cbf04f06ff4bc10939c20eb60d208ec52f1c647f",
- "notes": "The brain view is smoother: pathways follow their drifting cells without being laid again in bursts, and on a warm phone it draws 20 frames a second instead of 12."
+ "version": "0.135.26",
+ "build": 2271,
+ "apk": "kadath-0.135.26.apk",
+ "size": 60081572,
+ "sha256": "90a5c9b0069506cdb6bf708d35d61af6b96d430963a1298d0a5979b7c2da854d",
+ "notes": "Uses far less of your broker's monthly allowance: Cortex's memory goes to your PC over the home Wi-Fi, and only when it changed. Finds the right offline encyclopedia page more often."
 }
