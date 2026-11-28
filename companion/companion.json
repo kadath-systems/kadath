@@ -1,7 +1,7 @@
 {
- "version": "0.8.51",
- "exe": "KadathCompanion-0.8.51.exe",
- "size": 49072236,
- "sha256": "20b5b3eeb0952a59739019d3c430d095a4e610a59dfb1224fd9d370e64039b73",
- "notes": "Printers learned by themselves; the slicer learns from your past prints; skip objects, choose the plate and print later from the PC window."
+ "version": "0.8.52",
+ "exe": "KadathCompanion-0.8.52.exe",
+ "size": 51934081,
+ "sha256": "4afaefd26c15ae2a8dd2653a3a3d9c9e979a1cec6b1de0eb834bc8a40e6a9a8e",
+ "notes": "Its brain in 3D in the window (Mind > Its brain); the answer of its own AI shown as it is written, with a Stop button; its room paused, resumed or stopped from the watch; a training run no longer fails when the page file must grow first."
 }
