@@ -1,7 +1,7 @@
 {
- "version": "0.8.52",
- "exe": "KadathCompanion-0.8.52.exe",
- "size": 51934081,
- "sha256": "4afaefd26c15ae2a8dd2653a3a3d9c9e979a1cec6b1de0eb834bc8a40e6a9a8e",
- "notes": "Its brain in 3D in the window (Mind > Its brain); the answer of its own AI shown as it is written, with a Stop button; its room paused, resumed or stopped from the watch; a training run no longer fails when the page file must grow first."
+ "version": "0.8.54",
+ "exe": "KadathCompanion-0.8.54.exe",
+ "size": 51965926,
+ "sha256": "e63098d984d47a05e4439134483b178dd915f7fb129fb1227c1957383ab41861",
+ "notes": "Your portable Raspberry Pi: an encrypted off-site copy of what cannot be fetched again, sent whenever the Pi can be reached (never over a phone's hotspot); its state and the copy's age in Kadath's health card; the project kept current on it. The training run loads its weights in parts (it failed when the page file could not grow)."
 }
