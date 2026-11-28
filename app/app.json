@@ -1,8 +1,8 @@
 {
- "version": "0.135.26",
- "build": 2271,
- "apk": "kadath-0.135.26.apk",
- "size": 60081572,
- "sha256": "90a5c9b0069506cdb6bf708d35d61af6b96d430963a1298d0a5979b7c2da854d",
- "notes": "Uses far less of your broker's monthly allowance: Cortex's memory goes to your PC over the home Wi-Fi, and only when it changed. Finds the right offline encyclopedia page more often."
+ "version": "0.135.27",
+ "build": 2272,
+ "apk": "kadath-0.135.27.apk",
+ "size": 60083100,
+ "sha256": "aab8d38e905fd1d11e276452f95b455bd4326486a9b997dda2eb46a9cdb202cc",
+ "notes": "Checks its answers against the right offline encyclopedia page (the whole question is searched; 'Pride and Prejudice', not 'Prejudice'). Explains your broker's monthly allowance when it runs low."
 }
