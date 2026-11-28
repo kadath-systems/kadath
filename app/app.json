@@ -1,8 +1,8 @@
 {
- "version": "0.135.24",
- "build": 2269,
- "apk": "kadath-0.135.24.apk",
- "size": 60067284,
- "sha256": "1e9ff5f646f6394df4ad7ce698cc73ee86a0ed55964a9003483e8291b078f13a",
- "notes": "Printers learned by themselves: the slicer needs no sliced file from you on the first print (from the printer's card, your PC, or Bambu Lab's published profile). The phone shares its print history and printers with your PC."
+ "version": "0.135.25",
+ "build": 2270,
+ "apk": "kadath-0.135.25.apk",
+ "size": 60069816,
+ "sha256": "c35d54eb5adc7ba76f1f6647cbf04f06ff4bc10939c20eb60d208ec52f1c647f",
+ "notes": "The brain view is smoother: pathways follow their drifting cells without being laid again in bursts, and on a warm phone it draws 20 frames a second instead of 12."
 }
